@@ -1,0 +1,24 @@
+{
+    "ConferenceName": "Tech Summit 2024",
+    "Events": [
+      {
+        "Title": "Introduction to Quantum Computing",
+        "StartTime": "2024-11-10T09:00:00Z",
+        "DurationInMinutes": 90,
+        "Speaker": {
+          "Name": "Alice Johnson",
+          "ExperienceYears": 10
+        }
+      },
+      {
+        "Title": "AI Ethics in Modern World",
+        "StartTime": "2024-11-10T11:00:00Z",
+        "DurationInMinutes": 60,
+        "Speaker": {
+          "Name": "Bob Smith",
+          "ExperienceYears": 5
+        }
+      }
+    ]
+  }
+  
